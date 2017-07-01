@@ -1,49 +1,49 @@
+192	Java	2017-06-30	696	52555	102	192	https://github.com/IQSS/dataverse	2013-11-01	A data repository framework to share and publish research data.
+184	PHP	2017-06-30	287	186031	94	184	https://github.com/openscholar/openscholar	2011-03-04	OpenScholar project 
+170	JavaScript	2017-06-20	52	963	61	170	https://github.com/amekkawi/excel4node	2014-07-02	Node module to allow for easy Excel file creation
+115	JavaScript	2016-02-05	6	3601	16	115	https://github.com/HBRGTech/daisy	2014-11-16	daisy is a vagrant and grunt-powered Pattern Lab, derivative work from hbr.org's 2014 redesign.
+85	JavaScript	2017-06-28	154	41634	30	85	https://github.com/harvard-lil/perma	2013-05-06	Indelible links
+81	C	2017-06-01	1	135	2	81	https://github.com/HarvardPL/shill	2014-10-04	Scripting with Least Privilege
+77	JavaScript	2017-06-16	73	182121	23	77	https://github.com/cga-harvard/cga-worldmap	2010-11-01	Harvard WorldMap is a heavily modified fork of GeoNode 1.x, soon to be migrated to GeoNode 2.x.  WorldMap is being made available by Harvard's Center for Geographic Analysis to lower the barrier for scholars and others who wish to explore, visualize, edit, collaborate with, and publish geospatial information.
+74	JavaScript	2017-06-30	253	74786	10	74	https://github.com/refinery-platform/refinery-platform	2011-11-23	The Refinery Platform is a data management, analysis and visualization system for bioinformatics and computational biology applications. The platforms consists of three major components: a data repository with rich metadata capabilities, a workflow engine based on the popular Galaxy system, and visualization tools to support the exploration and interpretation of results at all stages of the analysis process.
+50	R	2017-06-30	22	109231	27	50	https://github.com/IQSS/Zelig	2013-12-05	A statistical framework that serves as a common interface to a large range of models
+44	Ruby	2017-06-30	0	6102	16	44	https://github.com/berkmancenter/tagteam	2011-07-12	Enhanced Social Tagging for Academic Communities
+37	Java	2017-06-15	26	413245	35	37	https://github.com/harvard-lts/fits	2013-03-02	File Information Tool Set
+24	JavaScript	2017-06-15	66	2778	15	24	https://github.com/cga-harvard/HHypermap	2015-12-17	HHypermap (Harvard Hypermap) Registry is an application that manages OWS, Esri REST, and other types of map service harvesting, and maintains uptime statistics for services and layers. HHypermap Registry will publish to HHypermap Search (based on Lucene) which provides a fast search and visualization environment for spatio-temporal materials.
+23	JavaScript	2017-06-30	32	20092	11	23	https://github.com/IQSS/TwoRavens	2013-07-02	A web application for data exploration, statistical analysis, model construction and meta analysis tools, that integrates with Zelig and Dataverse. 
+22	HTML	2017-05-29	9	12121	8	22	https://github.com/Harvard-Open-Data-Project/harvard-open-data-project.github.io	2015-04-07	Harvard's first open data catalog
+19	Python	2015-08-05	1	628	8	19	https://github.com/IQSS/redmine2github	2014-07-01	Scripts to migrate redmine tickets to github issues
+17	JavaScript	2017-03-24	2	22599	12	17	https://github.com/berkmancenter/h2o	2010-04-05	A suite of tools for online classrooms.
+16	Shell	2017-06-30	2	75320	4	16	https://github.com/fasrc/helmod	2013-12-16	Harvard Extensions for Lmod deployment
+11	Python	2017-05-23	5	80	14	11	https://github.com/Harvard-University-iCommons/django-auth-lti	2013-11-22	
+9	Python	2017-03-27	4	2222	3	9	https://github.com/penzance/canvas_python_sdk	2014-06-18	Canvas Python SDK
+9	HTML	2017-05-26	0	16522	3	9	https://github.com/cga-harvard/hhypermap-bop	2016-05-31	HHypermap BOP -- Harvard Hypermap, Billion Object Platform (using Apache Solr)
+8	Python	2017-06-30	7	15797	5	8	https://github.com/lduarte1991/hxat	2015-03-13	Contains the currently-in-development project by HarvardX to bring the annotation tool currently living in the edX platform to a more accessible LTI implementation. 
+7	JavaScript	2015-06-26	0	348	2	7	https://github.com/benmarch/spel2js	2015-06-12	Parse Spring Expression Language in JavaScript
+7	Java	2017-06-30	1	71949	1	7	https://github.com/harvard-library/librarycloud	2014-04-07	Harvard University Library Cloud API
+6	HTML	2017-06-30	58	32895	8	6	https://github.com/IQSS/DataTaggingLibrary	2013-08-22	Language tools for DataTags (Decision graph variant). Including the embeddable runtime engine
+4	JavaScript	2017-06-20	0	6915	1	4	https://github.com/harvard-library/metadata_server	2015-02-11	Django/Elasticsearch IIIF Metadata server
+4	Java	2017-06-27	0	3744	1	4	https://github.com/penzance/harvard-data-tools	2016-02-09	
+3	Java	2016-09-15	0	108590	5	3	https://github.com/harvard-lts/FITSservlet	2015-06-22	A web application to expose FITS as a service.
+2	JavaScript	2017-06-30	0	1531	1	2	https://github.com/Harvard-University-iCommons/canvas_account_admin_tools	2015-09-28	
+2	JavaScript	2017-01-27	0	2122	0	2	https://github.com/lduarte1991/Threads	2016-10-07	LTI tool created for HarvardX. It provides a pseudonymous forum-like experience to learners.
+1	XSLT	2016-01-14	1	75	1	1	https://github.com/harvard-library/schematronium	2015-07-28	A library for running schematrons over XML files
+1	Ruby	2017-06-26	0	58	0	1	https://github.com/harvard-library/spotlight-oaipmh-resources	2017-05-30	An OAI-PMH harvester plugin for Spotlight
+1	Ruby	2017-06-14	2	7120	1	1	https://github.com/harvard-library/ClassRequestTool	2014-04-10	An application for scheduling class visits to archives and special collections.
+1	Ruby	2017-05-11	0	552	3	1	https://github.com/harvard-library/archivesspace-preprocessor	2015-12-11	Preprocessor for EAD files to prepare them for ingest into Archivesspace
+1	Ruby	2017-02-17	1	1561	2	1	https://github.com/harvard-library/archivesspace-checker	2015-08-11	A small website for checking EADs against local standards via schematron
+1	Ruby	2016-04-18	4	1628	0	1	https://github.com/harvard-library/inscriptio	2013-11-18	An app to help manage the reservation of carrels and other reservable library resources
+1	PHP	2017-06-07	0	15097	1	1	https://github.com/harvard-library/acorn	2017-01-24	A COnservation Records Network
+1	Java	2016-06-15	3	232	2	1	https://github.com/IQSS/UNF	2014-08-17	Universal Numerical Fingerprint
 stars	language	updated	issues	size	forks	watchers	repo	created	description
-192	Java	2017-06-30	696	52555	102	192	https://github.com/IQSS/dataverse	2017-06-30	A data repository framework to share and publish research data.
-184	PHP	2017-06-30	287	186031	94	184	https://github.com/openscholar/openscholar	2017-06-30	OpenScholar project 
-170	JavaScript	2017-06-20	52	963	61	170	https://github.com/amekkawi/excel4node	2017-06-20	Node module to allow for easy Excel file creation
-115	JavaScript	2016-02-05	6	3601	16	115	https://github.com/HBRGTech/daisy	2016-02-05	daisy is a vagrant and grunt-powered Pattern Lab, derivative work from hbr.org's 2014 redesign.
-85	JavaScript	2017-06-28	154	41634	30	85	https://github.com/harvard-lil/perma	2017-06-28	Indelible links
-81	C	2017-06-01	1	135	2	81	https://github.com/HarvardPL/shill	2017-06-01	Scripting with Least Privilege
-77	JavaScript	2017-06-16	73	182121	23	77	https://github.com/cga-harvard/cga-worldmap	2017-06-16	Harvard WorldMap is a heavily modified fork of GeoNode 1.x, soon to be migrated to GeoNode 2.x.  WorldMap is being made available by Harvard's Center for Geographic Analysis to lower the barrier for scholars and others who wish to explore, visualize, edit, collaborate with, and publish geospatial information.
-74	JavaScript	2017-06-30	253	74786	10	74	https://github.com/refinery-platform/refinery-platform	2017-06-30	The Refinery Platform is a data management, analysis and visualization system for bioinformatics and computational biology applications. The platforms consists of three major components: a data repository with rich metadata capabilities, a workflow engine based on the popular Galaxy system, and visualization tools to support the exploration and interpretation of results at all stages of the analysis process.
-50	R	2017-06-30	22	109231	27	50	https://github.com/IQSS/Zelig	2017-06-30	A statistical framework that serves as a common interface to a large range of models
-44	Ruby	2017-06-30	0	6102	16	44	https://github.com/berkmancenter/tagteam	2017-06-30	Enhanced Social Tagging for Academic Communities
-37	Java	2017-06-15	26	413245	35	37	https://github.com/harvard-lts/fits	2017-06-15	File Information Tool Set
-24	JavaScript	2017-06-15	66	2778	15	24	https://github.com/cga-harvard/HHypermap	2017-06-15	HHypermap (Harvard Hypermap) Registry is an application that manages OWS, Esri REST, and other types of map service harvesting, and maintains uptime statistics for services and layers. HHypermap Registry will publish to HHypermap Search (based on Lucene) which provides a fast search and visualization environment for spatio-temporal materials.
-23	JavaScript	2017-06-30	32	20092	11	23	https://github.com/IQSS/TwoRavens	2017-06-30	A web application for data exploration, statistical analysis, model construction and meta analysis tools, that integrates with Zelig and Dataverse. 
-22	HTML	2017-05-29	9	12121	8	22	https://github.com/Harvard-Open-Data-Project/harvard-open-data-project.github.io	2017-05-29	Harvard's first open data catalog
-19	Python	2015-08-05	1	628	8	19	https://github.com/IQSS/redmine2github	2015-08-05	Scripts to migrate redmine tickets to github issues
-17	JavaScript	2017-03-24	2	22599	12	17	https://github.com/berkmancenter/h2o	2017-03-24	A suite of tools for online classrooms.
-16	Shell	2017-06-30	2	75320	4	16	https://github.com/fasrc/helmod	2017-06-30	Harvard Extensions for Lmod deployment
-11	Python	2017-05-23	5	80	14	11	https://github.com/Harvard-University-iCommons/django-auth-lti	2017-05-23	
-9	Python	2017-03-27	4	2222	3	9	https://github.com/penzance/canvas_python_sdk	2017-03-27	Canvas Python SDK
-9	HTML	2017-05-26	0	16522	3	9	https://github.com/cga-harvard/hhypermap-bop	2017-05-26	HHypermap BOP -- Harvard Hypermap, Billion Object Platform (using Apache Solr)
-8	Python	2017-06-30	7	15797	5	8	https://github.com/lduarte1991/hxat	2017-06-30	Contains the currently-in-development project by HarvardX to bring the annotation tool currently living in the edX platform to a more accessible LTI implementation. 
-7	JavaScript	2015-06-26	0	348	2	7	https://github.com/benmarch/spel2js	2015-06-26	Parse Spring Expression Language in JavaScript
-7	Java	2017-06-30	1	71949	1	7	https://github.com/harvard-library/librarycloud	2017-06-30	Harvard University Library Cloud API
-6	HTML	2017-06-30	58	32895	8	6	https://github.com/IQSS/DataTaggingLibrary	2017-06-30	Language tools for DataTags (Decision graph variant). Including the embeddable runtime engine
-4	JavaScript	2017-06-20	0	6915	1	4	https://github.com/harvard-library/metadata_server	2017-06-20	Django/Elasticsearch IIIF Metadata server
-4	Java	2017-06-27	0	3744	1	4	https://github.com/penzance/harvard-data-tools	2017-06-27	
-3	Java	2016-09-15	0	108590	5	3	https://github.com/harvard-lts/FITSservlet	2016-09-15	A web application to expose FITS as a service.
-2	JavaScript	2017-06-30	0	1531	1	2	https://github.com/Harvard-University-iCommons/canvas_account_admin_tools	2017-06-30	
-2	JavaScript	2017-01-27	0	2122	0	2	https://github.com/lduarte1991/Threads	2017-01-27	LTI tool created for HarvardX. It provides a pseudonymous forum-like experience to learners.
-1	XSLT	2016-01-14	1	75	1	1	https://github.com/harvard-library/schematronium	2016-01-14	A library for running schematrons over XML files
-1	Ruby	2017-06-26	0	58	0	1	https://github.com/harvard-library/spotlight-oaipmh-resources	2017-06-26	An OAI-PMH harvester plugin for Spotlight
-1	Ruby	2017-06-14	2	7120	1	1	https://github.com/harvard-library/ClassRequestTool	2017-06-14	An application for scheduling class visits to archives and special collections.
-1	Ruby	2017-05-11	0	552	3	1	https://github.com/harvard-library/archivesspace-preprocessor	2017-05-11	Preprocessor for EAD files to prepare them for ingest into Archivesspace
-1	Ruby	2017-02-17	1	1561	2	1	https://github.com/harvard-library/archivesspace-checker	2017-02-17	A small website for checking EADs against local standards via schematron
-1	Ruby	2016-04-18	4	1628	0	1	https://github.com/harvard-library/inscriptio	2016-04-18	An app to help manage the reservation of carrels and other reservable library resources
-1	PHP	2017-06-07	0	15097	1	1	https://github.com/harvard-library/acorn	2017-06-07	A COnservation Records Network
-1	Java	2016-06-15	3	232	2	1	https://github.com/IQSS/UNF	2016-06-15	Universal Numerical Fingerprint
-0	Ruby	2017-06-20	0	16	2	0	https://github.com/harvard-library/aspace-utils	2017-06-20	Bulk ingest script for ArchivesSpace, analysis script that processes logs from afforementioned.
-0	Ruby	2017-06-14	0	34	0	0	https://github.com/harvard-library/aspace-linkomatic	2017-06-14	A plugin to help automate the insertion of links to digitized records into Archives Space.
-0	Ruby	2017-05-31	1	4161	0	0	https://github.com/harvard-library/list_view	2017-05-31	A tool for displaying ordered lists of links.
-0	Ruby	2016-12-02	0	9	1	0	https://github.com/harvard-library/harvard-ead-importer	2016-12-02	ArchivesSpace plugin overriding EAD Importer to implement specific fixes.
-0	Ruby	2016-07-28	0	543	0	0	https://github.com/harvard-library/linkomatic	2016-07-28	Automatically adds NRS links to digitized records in EAD
-0	Ruby	2016-07-21	2	453	0	0	https://github.com/harvard-library/lts-lti-reserves	2016-07-21	The Reserves Tool as seen/used via Canvas
-0	Ruby	2015-12-18	0	24	0	0	https://github.com/harvard-library/devise_harvard_auth_proxy	2015-12-18	Devise plugin to use the Harvard authentication proxy.
-0	Ruby	2014-10-09	0	1265	0	0	https://github.com/harvard-library/geosearch_solr_prep	2014-10-09	geosearch_solr_prep
-0	PHP	2017-06-12	0	26	0	0	https://github.com/DRSC-FG/gene2function	2017-06-12	
-0	JavaScript	2017-06-29	1	1854	3	0	https://github.com/harvard-library/aspace-import-excel	2017-06-29	Import resources, archival objects, etc. into ArchivesSpace using Excel spreadsheet files
-0		2016-04-15	0	183	0	0	https://github.com/onnela-lab/HX_python_for_research	2016-04-15	
+0	Ruby	2017-06-20	0	16	2	0	https://github.com/harvard-library/aspace-utils	2016-08-19	Bulk ingest script for ArchivesSpace, analysis script that processes logs from afforementioned.
+0	Ruby	2017-06-14	0	34	0	0	https://github.com/harvard-library/aspace-linkomatic	2017-02-21	A plugin to help automate the insertion of links to digitized records into Archives Space.
+0	Ruby	2017-05-31	1	4161	0	0	https://github.com/harvard-library/list_view	2014-10-08	A tool for displaying ordered lists of links.
+0	Ruby	2016-12-02	0	9	1	0	https://github.com/harvard-library/harvard-ead-importer	2016-09-30	ArchivesSpace plugin overriding EAD Importer to implement specific fixes.
+0	Ruby	2016-07-28	0	543	0	0	https://github.com/harvard-library/linkomatic	2015-01-12	Automatically adds NRS links to digitized records in EAD
+0	Ruby	2016-07-21	2	453	0	0	https://github.com/harvard-library/lts-lti-reserves	2015-06-11	The Reserves Tool as seen/used via Canvas
+0	Ruby	2015-12-18	0	24	0	0	https://github.com/harvard-library/devise_harvard_auth_proxy	2014-05-01	Devise plugin to use the Harvard authentication proxy.
+0	Ruby	2014-10-09	0	1265	0	0	https://github.com/harvard-library/geosearch_solr_prep	2014-08-06	geosearch_solr_prep
+0	PHP	2017-06-12	0	26	0	0	https://github.com/DRSC-FG/gene2function	2017-06-09	
+0	JavaScript	2017-06-29	1	1854	3	0	https://github.com/harvard-library/aspace-import-excel	2017-01-19	Import resources, archival objects, etc. into ArchivesSpace using Excel spreadsheet files
+0		2016-04-15	0	183	0	0	https://github.com/onnela-lab/HX_python_for_research	2016-04-13	

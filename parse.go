@@ -37,7 +37,7 @@ func main() {
 		forks := strconv.Itoa(repo.Forks)
 		watchers := strconv.Itoa(repo.Watchers)
 		pushedAt := repo.PushedAt.Format("2006-01-02")
-		createdAt := repo.PushedAt.Format("2006-01-02")
+		createdAt := repo.CreatedAt.Format("2006-01-02")
 		desc := repo.Desc
 		values := []string{stars, lang, pushedAt, openIssues, size, forks, watchers, url, createdAt, desc}
 		writer.Write(values)
