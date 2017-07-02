@@ -1,6 +1,6 @@
 # Open Source at Harvard
 
-Please make a pull request against [githhub.tsv](github.tsv) to add your project to the list.
+Please make a pull request against [github.tsv](github.tsv) to add your project to the list.
 
 Go 1.4 or higher is required to perform the following operations:
 
