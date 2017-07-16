@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"sort"
 	"strconv"
 	"time"
 )
@@ -18,8 +19,7 @@ func main() {
 	writer.Comma = '\t'
 	defer writer.Flush()
 	files, _ := filepath.Glob("*.json")
-	header := []string{"stars", "language", "updated", "issues", "size", "forks", "watchers", "repo", "created", "description"}
-	writer.Write(header)
+	var repos []Repo
 	for _, element := range files {
 		file, e := ioutil.ReadFile(element)
 		if e != nil {
@@ -29,6 +29,12 @@ func main() {
 		var repo Repo
 		json.Unmarshal(file, &repo)
 		fmt.Println(repo.Url, repo.Stars)
+		repos = append(repos, repo)
+	}
+	sort.Sort(ByStars(repos))
+	header := []string{"stars", "language", "updated", "issues", "size", "forks", "watchers", "repo", "created", "description"}
+	writer.Write(header)
+	for _, repo := range repos {
 		url := repo.Url
 		stars := strconv.Itoa(repo.Stars)
 		lang := repo.Lang
@@ -56,3 +62,9 @@ type Repo struct {
 	CreatedAt  time.Time `json:"created_at"`
 	Desc       string    `json:"description"`
 }
+
+type ByStars []Repo
+
+func (a ByStars) Len() int           { return len(a) }
+func (a ByStars) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByStars) Less(j, i int) bool { return a[i].Stars < a[j].Stars }
