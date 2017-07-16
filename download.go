@@ -4,6 +4,7 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
@@ -11,6 +12,12 @@ import (
 )
 
 func main() {
+
+	bytes, err := ioutil.ReadFile(".github-token")
+	if err != nil {
+		fmt.Print(err)
+	}
+	token := string(bytes)
 
 	var repoList = "github.tsv"
 	tsvFile, tsvOpenError := os.Open(repoList)
@@ -34,6 +41,8 @@ func main() {
 		os.Exit(1)
 	}
 
+	client := &http.Client{}
+
 	for _, each := range tsvData {
 		repoUrl := each[0]
 		u, err := url.Parse(repoUrl)
@@ -48,7 +57,10 @@ func main() {
 
 		gitRepoUrl := "https://api.github.com/repos/" + org + "/" + repo
 		fmt.Println("Downloading " + gitRepoUrl)
-		response, e := http.Get(gitRepoUrl)
+		response, e := client.Get(gitRepoUrl)
+		req, err := http.NewRequest("GET", gitRepoUrl, nil)
+		req.Header.Add("Authorization", "token "+token)
+		response, e = client.Do(req)
 		if e == nil {
 
 			defer response.Body.Close()

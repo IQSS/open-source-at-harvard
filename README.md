@@ -2,6 +2,8 @@
 
 Please make a pull request against [github.tsv](github.tsv) to add your project to the list.
 
+There are enough projects listed that to download metadata about them from the GitHub API you must create a personal access token for yourself at https://github.com/settings/tokens and copy and paste it into a file called `.github-token`.
+
 Go 1.4 or higher is required to perform the following operations:
 
     go run download.go
