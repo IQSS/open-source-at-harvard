@@ -35,6 +35,6 @@ If you have any trouble with the commands above or have any ideas for this proje
 
 ## opensource.harvard.edu
 
-The code in this repo was hacked together by Philip Durbin who thinks that some day we should launch a site at opensource.harvard.edu and makes the argument in a [Google doc][] where public comments are enabled and very much encouraged! You are also welcome to start a discussion about the opensource.harvard.edu idea by opening an issue in this repo.
+The code in this repo was hacked together by Philip Durbin who thinks that some day we should launch a site at opensource.harvard.edu and makes the argument in a [Google doc][] where public comments are enabled and very much encouraged! You are also welcome to start a discussion about the opensource.harvard.edu idea by opening an issue in this repo. Harvard will never write as much open source software as Google, but we can use their showcase at https://opensource.google.com/projects for inspiration!
 
 [Google doc]: https://docs.google.com/document/d/1CSWV9VxHfJj_ahArNYTsCAG0D8OtSfZhrCwpNiIKWQw/edit?usp=sharing
