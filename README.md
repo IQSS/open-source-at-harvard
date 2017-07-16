@@ -2,7 +2,9 @@
 
 ## What is this open-source-at-harvard project about? How do I add my project to the list?
 
-How much open source software is written at Harvard? How popular is that software? When was it last updated? Which groups are writing the software? Which languages are used? These are the initial questions this **open-source-at-harvard** project attempts to answer, but there are many more questions we can tackle in the future. How many production services is Harvard hosting that are based on this open source software? How many contributors does each project have? Who are the people who are contributing?
+How much open source software is written at Harvard? How popular is that software? When was it last updated? Which groups are writing the software? Which languages are used? These are the initial questions this **open-source-at-harvard** project attempts to answer, but there are many more questions we can tackle in the future. How many production services is [Harvard hosting][] that are based on this open source software? How many contributors does each project have? Who are the people who are contributing?
+
+[Harvard hosting]: https://github.com/IQSS/open-source-at-harvard/issues/3
 
 Our starting point is a simple list of Harvard open source projects on GitHub at [github.tsv](github.tsv). To add your project to the list, please make a pull request. (Thank you to everyone who has already made a pull request!) If your project isn't on GitHub, please open an issue.
 
