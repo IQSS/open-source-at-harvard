@@ -12,7 +12,7 @@ Our starting point is a simple list of Harvard open source projects on GitHub at
 
 ## How do I run the code in this open-source-at-harvard repo?
 
-Code in this repo operates in two stages, download and parse. In the parse stage, the code uses the list of projects at [github.tsv](github.tsv) as input and downloads metadata about each project from the GitHub API as a series of JSON files, one per project. In the second stage, those JSON files are used as input to create a file called `data.tsv` which should look something like [data/2017-06-30.tsv](data/2017-06-30.tsv) or the data published at http://dx.doi.org/10.7910/DVN/TJCLKP . The reason for the two stages is that we are attempting to reduce the number requests to the GitHub API. Once you have downloaded the JSON files, you can hack away at the parsing code without burdening the GitHub API or spending any time or bandwidth downloading the JSON files over and over.
+Code in this repo operates in two stages, download and parse. In the parse stage, the code uses the list of projects at [github.tsv](github.tsv) as input and downloads metadata about each project from the GitHub API as a series of JSON files, one per project. In the second stage, those JSON files are used as input to create a file called `data.tsv` which should look something like [data/2017-07-31.tsv](data/2017-07-31.tsv) or the data published at http://dx.doi.org/10.7910/DVN/TJCLKP . The reason for the two stages is that we are attempting to reduce the number requests to the GitHub API. Once you have downloaded the JSON files, you can hack away at the parsing code without burdening the GitHub API or spending any time or bandwidth downloading the JSON files over and over.
 
 To run the code in this repo, [Go](https://golang.org) 1.4 or higher is required. You can download a snapshot of the code as a zip file or tarball, but if you have Git installed you can simply clone the repo:
 
@@ -31,7 +31,7 @@ Finally, issue the following commands to download JSON files about each project 
     go run download.go
     go run parse.go
 
-A file called `data.tsv` should result, representing the data you just downloaded. Again, it should look something like [data/2017-06-30.tsv](data/2017-06-30.tsv) or the data published at http://dx.doi.org/10.7910/DVN/TJCLKP .
+A file called `data.tsv` should result, representing the data you just downloaded. Again, it should look something like the tsv file described above or the one at http://dx.doi.org/10.7910/DVN/TJCLKP .
 
 If you have any trouble with the commands above or have any ideas for this project, please open a GitHub issue. Pull request are also very welcome!
 
