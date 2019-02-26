@@ -17,7 +17,7 @@ func main() {
 	if err != nil {
 		fmt.Print(err)
 	}
-	token := string(bytes)
+	token := strings.TrimSpace(string(bytes))
 
 	var repoList = "github.tsv"
 	tsvFile, tsvOpenError := os.Open(repoList)
