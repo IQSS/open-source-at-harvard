@@ -1,0 +1,139 @@
+stars	language	updated	issues	size	forks	watchers	repo	created	description
+732	Java	2023-01-03	1345	123092	411	732	https://github.com/IQSS/dataverse	2013-11-01	Open source research data repository software
+675	Python	2022-12-23	450	50868	149	675	https://github.com/glue-viz/glue	2011-05-18	Linked Data Visualizations Across Multiple Files
+651	R	2022-02-07	122	31425	133	651	https://github.com/hms-dbmi/UpSetR	2015-05-26	An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..  
+346	JavaScript	2022-12-23	174	57214	65	346	https://github.com/harvard-lil/perma	2013-05-06	Indelible links
+269	Python	2022-11-10	153	263770	87	269	https://github.com/mediacloud/backend	2013-06-26	Media Cloud is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
+193	Java	2022-02-08	15	66056	50	193	https://github.com/harvardinformatics/JAuth	2011-09-23	Java GUI client to generate Google authentication codes
+187	JavaScript	2022-12-14	74	18263	31	187	https://github.com/hms-dbmi/viv	2020-01-24	Library for multiscale visualization of high-resolution multiplexed bioimaging data on the web. Directly renders Zarr and OME-TIFF.
+171	HTML	2018-02-21	1	19713	20	171	https://github.com/berkmancenter/internet_monitor	2013-08-05	The Internet Monitor is a research project to evaluate, describe, and summarize the means, mechanisms, and extent of Internet content controls and Internet activity around the world.
+159	R	2020-04-05	43	14632	64	159	https://github.com/hms-dbmi/scde	2015-05-06	R package for analyzing single-cell RNA-seq data
+149	Ruby	2022-05-31	20	245	28	149	https://github.com/berkmancenter/namae	2012-05-21	Namae (名前) parses personal names and splits them into their component parts.
+123	Ruby	2023-01-03	2	19565	102	123	https://github.com/berkmancenter/lumendatabase	2012-04-16	The Lumen Database collects and analyzes legal complaints and requests for removal of online materials.
+113	JavaScript	2016-02-05	5	3601	11	113	https://github.com/HBRGTech/daisy	2014-11-16	daisy is a vagrant and grunt-powered Pattern Lab, derivative work from hbr.org's 2014 redesign.
+103	C	2017-06-01	1	135	1	103	https://github.com/HarvardPL/shill	2014-10-04	Scripting with Least Privilege
+100	R	2022-04-14	47	115076	45	100	https://github.com/IQSS/Zelig	2013-12-05	A statistical framework that serves as a common interface to a large range of models
+100	Python	2022-12-10	332	129969	22	100	https://github.com/refinery-platform/refinery-platform	2011-11-23	The Refinery Platform is a data management, analysis and visualization system for bioinformatics and computational biology applications. The platforms consists of three major components: a data repository with rich metadata capabilities, a workflow engine based on the popular Galaxy system, and visualization tools to support the exploration and interpretation of results at all stages of the analysis process.
+96	JavaScript	2019-09-17	30	275270	31	96	https://github.com/cga-harvard/geonode	2010-11-01	Harvard WorldMap is a heavily modified fork of GeoNode 1.4 which has recently been migrated to GeoNode 2.10. WorldMap is being made available by Harvard's Center for Geographic Analysis to lower the barrier for scholars and others who wish to explore, visualize, edit, collaborate with, and publish geospatial information.
+96	Python	2019-01-07	0	1829	36	96	https://github.com/harvardinformatics/ATAC-seq	2017-10-06	
+85	Ruby	2022-09-26	16	6919	28	85	https://github.com/berkmancenter/tagteam	2011-07-12	Enhanced Social Tagging for Academic Communities
+85	Java	2022-12-22	20	913321	44	85	https://github.com/harvard-lts/fits	2013-03-02	File Information Tool Set
+48	Python	2020-10-19	5	41	12	48	https://github.com/cid-harvard/pandas-to-postgres	2018-07-12	Copy Pandas DataFrames and HDF5 files to PostgreSQL database
+46	JavaScript	2017-11-07	13	3367	27	46	https://github.com/berkmancenter/dotplot	2015-02-19	Telling a story through dots
+46	Python	2022-12-06	3	90	21	46	https://github.com/cid-harvard/py-ecomplexity	2018-10-29	Python package to compute economic complexity and associated variables
+39	JavaScript	2020-06-25	12	2435	10	39	https://github.com/harvard-library/aspace-import-excel	2017-01-19	Import resources, archival objects, etc. into ArchivesSpace using Excel spreadsheet files
+37	JavaScript	2022-12-09	40	8492	42	37	https://github.com/berkmancenter/question_tool	2015-06-15	A web application to propose and vote on questions on a particular subject.
+36	JavaScript	2022-07-06	67	2932	20	36	https://github.com/cga-harvard/Hypermap-Registry	2015-12-17	Hypermap Registry, remote map services made easy for your SDI  
+36	Shell	2021-08-05	7	37	42	36	https://github.com/harvard-dce/canvas-docker	2015-01-30	Containerized Canvas instance for dev/testing
+30	JavaScript	2018-08-02	31	23323	18	30	https://github.com/IQSS/TwoRavens	2013-07-02	See https://github.com/tworavens/tworavens for current repository for this project and http://2ra.vn for project pages.
+27	TypeScript	2022-09-30	2	2100	5	27	https://github.com/harvard-edtech/caccl	2018-11-02	The Canvas App Complete Connection Library (CACCL) is an all-in-one library for building Canvas-integrated apps. By handling LTI, authorization, and api for you, CACCL makes building Canvas-integrated tools quick and easy. Keywords: Canvas LMS Instructure API LTI Authorization EdTech Education
+26	Python	2023-01-02	126	109316	24	26	https://github.com/harvard-lil/h2o	2015-09-01	H2O is a web app for creating and reading open educational resources, primarily in the legal field
+26	Ruby	2022-12-05	4	90674	5	26	https://github.com/fasrc/helmod	2013-12-16	Harvard Extensions for Lmod deployment
+24	PHP	2019-04-11	21	2741	10	24	https://github.com/berkmancenter/amber_wordpress	2014-02-11	Amber plugin for Wordpress
+24	Python	2019-10-21	5	156	18	24	https://github.com/IQSS/redmine2github	2014-07-01	Scripts to migrate redmine tickets to github issues
+21	PHP	2022-12-02	1	9701	3	21	https://github.com/cbdb-project/cbdb-online-main-server	2017-08-09	CBDB 在线系统主服务器
+21	Stata	2020-10-19	3	35	6	21	https://github.com/cid-harvard/ecomplexity	2014-08-19	
+20	Python	2022-11-21	5	2247	5	20	https://github.com/penzance/canvas_python_sdk	2014-06-18	Canvas Python SDK
+19	Python	2022-09-16	3	116	20	19	https://github.com/Harvard-University-iCommons/django-auth-lti	2013-11-22	
+17	Python	2022-03-01	1	68995	6	17	https://github.com/cid-harvard/classifications	2015-02-04	Various industry and product classifications that we took from original sources and cleaned to be computer-readable
+15	Jupyter Notebook	2017-05-24	1	86066	6	15	https://github.com/cid-harvard/visualization-notebook-templates	2015-09-23	A set of iPython notebooks that can be used to generate some of the most common atlas-style visualizations with datasets in stata or csv
+14	HTML	2020-06-16	12	2082	6	14	https://github.com/OpenSDP/OpenSDPsynthR	2017-02-28	Codebase to generate simulated data for OpenSDP project
+14	Ruby	2018-03-17	89	3968	21	14	https://github.com/berkmancenter/bookanook	2015-07-01	
+13	Ruby	2016-05-26	4	89	4	13	https://github.com/harvard-dce/dce_lti	2014-10-31	An engine to simplify LTI Authentication for rails applications
+13	JavaScript	2021-08-11	5	27015	16	13	https://github.com/cid-harvard/atlas-subnational-frontend	2015-04-21	
+12	Vue	2022-02-25	6	1707	1	12	https://github.com/cbdb-project/cbdb-online-query-app	2020-06-17	
+12	JavaScript	2022-10-26	0	3344	6	12	https://github.com/Colin-Fredericks/hx-js	2016-03-04	Collecting some javascript from HarvardX all in one place.
+11	Java	2022-02-25	2	86438	2	11	https://github.com/harvard-library/librarycloud	2014-04-07	Harvard University Library Cloud API
+9	Python	2017-10-04	1	10	3	9	https://github.com/harvard-dce/python-docker-test	2015-07-10	TestCase mixin for executing functional tests against a live docker container
+9	JavaScript	2022-11-17	0	1857	7	9	https://github.com/HarvardX/edx_course_templater	2019-01-18	Makes edX courses for HarvardX using survey responses
+9	JavaScript	2016-12-09	1	332	3	9	https://github.com/berkmancenter/tmulk	2016-10-29	Twitter mass bulk download
+8	HTML	2018-04-03	1	279	4	8	https://github.com/OpenSDP/dataviz-r	2017-05-18	OpenSDP data visualization tutorials in R for education data analysts, including R Shiny tutorial 
+8	Python	2018-09-26	0	378	4	8	https://github.com/cid-harvard/atlas-playbooks	2014-01-13	Ansible playbooks and Vagrantfile for the Atlas of Economic Complexity
+8		2017-01-06	2	532	2	8	https://github.com/berkmancenter/amber_drupal	2014-02-11	Amber module for Drupal
+7	Java	2022-12-14	4	2209	2	7	https://github.com/kurator-org/kurator-akka	2015-01-26	Provenance-enabled workflow platform and toolkit to curate biodiversity data  https://doi.org/10.5281/zenodo.1068311
+7	Java	2022-10-10	77	37445	13	7	https://github.com/IQSS/DataTaggingLibrary	2013-08-22	Language tools for DataTags (Decision graph variant). Including the embeddable runtime engine
+7	Jupyter Notebook	2022-12-08	0	2296	4	7	https://github.com/onnela-lab/beiwe	2018-06-19	Beiwe is a smartphone-based digital phenotyping research platform.
+7	HTML	2022-05-31	11	103008	10	7	https://github.com/farhat-lab/gentb-site	2015-10-06	The genTB project, the Django site, variant calling and prediciton pipeline, and mapping pipeline with hooks to two ravens
+6	Java	2022-12-04	4	109308	9	6	https://github.com/harvard-lts/FITSservlet	2015-06-22	A web application to expose FITS as a service.
+6	Python	2016-05-17	2	24	1	6	https://github.com/harvard-dce/pytest-ghostinspector	2015-10-16	pytest plugin for discovering & executing https://ghostinspector.com tests
+6	Java	2021-02-23	1	4675	2	6	https://github.com/penzance/harvard-data-tools	2016-02-09	
+6	Python	2021-07-15	1	224	7	6	https://github.com/cid-harvard/atlas_core	2015-03-04	
+6	HTML	2018-04-13	1	308	4	6	https://github.com/OpenSDP/nearly-unique-r	2017-05-18	OpenSDP data cleaning tutorial on applying decision rules
+6	JavaScript	2022-01-30	1	21467	1	6	https://github.com/harvard-library/metadata_server	2015-02-11	Django/Elasticsearch IIIF Metadata server
+6	R	2018-12-27	1	8192	4	6	https://github.com/OpenSDP/college-going-r	2017-05-18	OpenSDP College-Going Pathways (R)
+6	HTML	2016-10-04	1	1584	4	6	https://github.com/berkmancenter/amber_common	2014-05-09	Common code and documentation for the Amber project
+5	PHP	2019-05-13	0	20537	2	5	https://github.com/harvard-library/acorn	2017-01-24	A COnservation Records Network
+5	Python	2022-08-30	0	6994	2	5	https://github.com/Colin-Fredericks/hx_util	2018-05-03	HarvardX scripts and utilities for edX courses
+4	R	2018-04-03	0	8	1	4	https://github.com/OpenSDP/template-r	2017-05-19	OpenSDP Analysis Template (R)
+4	Python	2022-12-14	6	27245	3	4	https://github.com/kurator-org/kurator-validation	2015-01-26	Biodiversity data validation services and actors for the Kurator toolkit.
+4	JavaScript	2022-12-21	1	32124	2	4	https://github.com/Harvard-University-iCommons/canvas_account_admin_tools	2015-09-28	
+4	Ruby	2022-12-14	10	7401	3	4	https://github.com/harvard-library/ClassRequestTool	2014-04-10	An application for scheduling class visits to archives and special collections.
+4	Java	2016-06-15	2	232	2	4	https://github.com/IQSS/UNF	2014-08-17	Universal Numerical Fingerprint
+4	C	2015-08-14	1	543	1	4	https://github.com/berkmancenter/amber_nginx	2014-02-11	Amber module for Nginx
+4	TypeScript	2017-12-04	0	325	3	4	https://github.com/cid-harvard/product-space	2017-11-28	Customizable and interactive product space
+4	Ruby	2022-12-14	9	1715	0	4	https://github.com/harvard-library/inscriptio	2013-11-18	An app to help manage the reservation of carrels and other reservable library resources
+4	C	2015-11-17	2	52	1	4	https://github.com/berkmancenter/amber_apache	2014-02-11	Amber module for Apache
+3	Stata	2018-12-27	3	6608	4	3	https://github.com/OpenSDP/college-going-stata	2017-05-18	OpenSDP College-Going Pathways (Stata) 
+3	C	2022-10-21	20	953	0	3	https://github.com/nthallen/icosfit	2019-08-13	ICOSfit Absorption Spectra Fitting Software
+3	Java	2018-06-08	12	104367	1	3	https://github.com/kurator-org/kurator-web	2016-01-22	
+3	Java	2022-08-30	1	1258	0	3	https://github.com/FilteredPush/event_date_qc	2016-10-05	DataQuality library for dwc:eventDate and other dwc:Event terms.
+3	JavaScript	2016-10-31	1	2646	5	3	https://github.com/berkmancenter/fair_use_tool	2010-07-14	Creative Rights fair use tool for determining copyright usage.
+3	JavaScript	2021-06-10	1	13350	3	3	https://github.com/cid-harvard/aid-explorer	2014-04-18	Aid data explorer which can be seen at: http://www.atlas.cid.harvard.edu/aidxp
+3	Python	2022-12-09	0	42	4	3	https://github.com/harvard-lil/lil-nudgebot	2016-06-17	
+3	PHP	2017-07-26	0	97	5	3	https://github.com/berkmancenter/category_subscriptions	2011-04-05	A wordpress plugin that allows for per-user category subscriptions.
+3	Python	2022-06-01	0	6542	2	3	https://github.com/Colin-Fredericks/hx-py	2016-09-29	Collection of python used in HarvardX problems
+3		2017-09-20	0	10	2	3	https://github.com/OpenSDP/nearly-unique-stata	2017-05-18	OpenSDP data cleaning tutorial in Stata on applying decision rules
+3	XSLT	2016-01-14	1	75	1	3	https://github.com/harvard-library/schematronium	2015-07-28	A library for running schematrons over XML files
+3	Python	2018-12-13	1	434	10	3	https://github.com/cid-harvard/atlas-subnational-api	2014-12-03	Subnational atlas API backend
+3	Jupyter Notebook	2022-08-04	0	189	0	3	https://github.com/cbdb-project/accessAndMySQLTransfer	2017-09-25	convert Access MDB file to MySQL, and convert MySQL dump to MDB
+3	Ruby	2021-09-01	0	1004	3	3	https://github.com/berkmancenter/brkmn	2012-03-20	The dirt-simple URL shortener at brk.mn
+3	Python	2017-11-15	2	15	0	3	https://github.com/harvard-dce/django-canvas-api-token	2014-12-17	A reusable django app for generating Canvas API user oauth tokens
+3	C	2017-03-16	0	52824	1	3	https://github.com/berkmancenter/curarium	2014-05-06	The Curarium is a collection of collections. It is a platform which leverages the power of the crowd in order to annotate, curate, and augment works within and beyond their respective collections, with the aim of constructing sharable, media-rich stories and elaborate arguments about individual items as well as groups of items in our corpora.
+3	Python	2022-12-08	4	39	1	3	https://github.com/harvard-dce/panopto-cli	2019-04-26	Command-line tool for interacting with the Panopto SOAP API
+2	Ruby	2022-12-14	7	530	1	2	https://github.com/harvard-dce/hola_mundo	2014-11-21	An LTI app allowing students in a course to introduce themselves via webcam-captured youtube videos
+2		2017-05-18	0	9	2	2	https://github.com/OpenSDP/faketucky	2017-05-18	OpenSDP Faketucky College-Going Dataset (Stata and R)
+2	JavaScript	2018-04-03	0	432	1	2	https://github.com/OpenSDP/template-stata	2017-05-19	OpenSDP Analysis Template (Stata)
+2	TypeScript	2022-09-30	0	3352	1	2	https://github.com/harvard-edtech/caccl-lti	2018-08-07	Validates and parses LTI launch requests.
+2	Python	2017-08-05	2	114	1	2	https://github.com/HarvardOpenData/propublica-data	2017-05-31	Python script that uses the Propublica API to retrieve data (in csv format) on any list of organizations.
+2	Ruby	2014-09-02	0	711	3	2	https://github.com/berkmancenter/hei	2012-06-25	A tag heavy development project registry.
+2	Ruby	2023-01-03	2	653	3	2	https://github.com/harvard-lts/spotlight-oaipmh-resources	2017-05-30	An OAI-PMH harvester plugin for Spotlight
+2	Ruby	2022-09-27	1	1578	4	2	https://github.com/harvard-library/archivesspace-checker	2015-08-11	A small website for checking EADs against local standards via schematron
+2	Shell	2018-05-14	0	380	5	2	https://github.com/cid-harvard/subnational-playbooks	2014-12-18	Playbooks for the colombia, mexico, peru atlas
+2	Java	2022-11-24	2	17114	3	2	https://github.com/MCZbase/DataShot_DesktopApp	2016-11-24	Desktop application client intended to support an object-precapture-image-data workflow for capture of natural science collections data.  See the wiki (https://github.com/MCZbase/DataShot_DesktopApp/wiki) for user documentation, or the README below for developer documentation.
+2	ColdFusion	2023-01-03	0	76490	1	2	https://github.com/MCZbase/MCZbase	2015-08-21	Arctos branch in use by the Museum of Comparative Zoology, Harvard University  https://doi.org/10.5281/zenodo.891420
+2	Ruby	2016-11-16	0	82	0	2	https://github.com/berkmancenter/classifurlr	2016-05-11	Given request & response data, attempts to determine likelihood that page is available vs. down or blocked.
+2	Python	2022-09-23	6	1027	6	2	https://github.com/harvard-lil/perma-payments	2017-06-07	
+1	HTML	2020-01-16	0	130134	1	1	https://github.com/HarvardX/studio-advanced	2019-11-05	The training course for advanced users of edX Studio
+1	Python	2022-10-24	0	849	2	1	https://github.com/Colin-Fredericks/hx-xml	2018-05-04	XML utilities from HarvardX, for use in edX courses
+1	Ruby	2022-11-06	0	18	4	1	https://github.com/harvard-library/aspace-utils	2016-08-19	Bulk ingest script for ArchivesSpace, analysis script that processes logs from afforementioned.
+1	Ruby	2022-09-14	0	594	3	1	https://github.com/harvard-library/archivesspace-preprocessor	2015-12-11	Preprocessor for EAD files to prepare them for ingest into Archivesspace
+1	Ruby	2019-09-16	0	185	3	1	https://github.com/berkmancenter/feed-abstract	2011-08-19	RSS Feed abstraction library using ruby standard lib classes.
+1	TypeScript	2022-10-11	14	10278	2	1	https://github.com/harvard-edtech/caccl-api	2018-09-25	A class that defines a set of smart Canvas endpoints that actually behave how you'd expect them to. 
+1	PHP	2022-07-01	0	45	2	1	https://github.com/berkmancenter/wiki-uturn	2012-09-20	Wiki Reversion Tool
+1	PHP	2013-07-23	0	226	1	1	https://github.com/berkmancenter/blog_network_stats	2013-03-04	A wordpress plugin to aggregate data about blogs into a single table.
+1	Python	2017-07-16	0	12278	0	1	https://github.com/cbdb-project/crop_books_by_lines	2017-03-06	crop books by lines or blanks
+1		2016-04-15	0	183	1	1	https://github.com/onnela-lab/HX_python_for_research	2016-04-13	
+1	PLSQL	2022-11-21	0	541	0	1	https://github.com/MCZbase/DDL	2018-08-14	Build Scripts for all Database Objects in MCZbase
+1	Java	2022-07-06	0	10765	1	1	https://github.com/MCZbase/PreCapture	2016-09-16	PreCapture application used for creating human and machine readable labels for natural science collections storage containers to support object to image to data workflows.  Used by the MCZ and the NEVP TCN.
+0	C++	2017-07-03	0	347	0	0	https://github.com/cbdb-project/reg-cpp	2017-07-03	regular expression replacer
+0	Ruby	2018-12-07	2	460	0	0	https://github.com/harvard-library/lts-lti-reserves	2015-06-11	The Reserves Tool as seen/used via Canvas
+0	Ruby	2022-02-16	1	5270	0	0	https://github.com/harvard-library/list_view	2014-10-08	A tool for displaying ordered lists of links.
+0	Ruby	2016-07-28	0	543	0	0	https://github.com/harvard-library/linkomatic	2015-01-12	Automatically adds NRS links to digitized records in EAD
+0	Ruby	2016-12-02	0	9	1	0	https://github.com/harvard-library/harvard-ead-importer	2016-09-30	ArchivesSpace plugin overriding EAD Importer to implement specific fixes.
+0	Ruby	2014-10-09	0	1265	0	0	https://github.com/harvard-library/geosearch_solr_prep	2014-08-06	geosearch_solr_prep
+0	Ruby	2020-11-16	0	26	0	0	https://github.com/harvard-library/devise_harvard_auth_proxy	2014-05-01	Devise plugin to use the Harvard authentication proxy.
+0	Ruby	2017-11-01	0	35	0	0	https://github.com/harvard-library/aspace-linkomatic	2017-02-21	A plugin to help automate the insertion of links to digitized records into Archives Space.
+0		2022-10-03	0	7	0	0	https://github.com/cga-harvard/Twitter-Sentiment-Geographical-Index	2022-12-14	Twitter Sentiment Geographical Index
+0	Java	2022-06-07	0	56	0	0	https://github.com/kurator-org/ffdq-api	2016-12-15	An API for making Fitt4Use Framework assertions available to Data Quality reports.
+0	Python	2022-11-08	0	28454	0	0	https://github.com/Colin-Fredericks/edx_replace_staff	2022-03-28	
+0	Java	2022-11-15	4	2399	0	0	https://github.com/kurator-org/kurator-ffdq	2016-11-02	FFDQ framework for data quality assertions
+0	Java	2022-12-14	4	309	1	0	https://github.com/kurator-org/kurator-fp-validation	2015-03-03	Biodiversity data validation actors and workflows derived from the FP-Akka package
+0	Go	2019-02-01	0	1705	0	0	https://github.com/cbdb-project/ip-director	2018-10-29	Direct IPs from different geographic locations to different URLs
+0	Ruby	2022-05-06	0	62850	0	0	https://github.com/berkmancenter/eda	2014-07-03	Emily Dickinson Archive platform
+0		2022-12-20	0	20	0	0	https://github.com/MCZbase/queries_MCZbase	2017-11-21	A library of SQL queries and scripts used with MCZbase
+0	Java	2018-04-23	0	9130	0	0	https://github.com/MCZbase/eDecViewer	2015-08-21	USFWS eDec generation tool for MCZbase and Arctos
+0	HTML	2021-03-08	0	3450	0	0	https://github.com/MCZbase/datashot_web	2016-11-24	
+0	Java	2022-01-27	0	25154	0	0	https://github.com/MCZbase/datashot_ejb	2016-11-24	
+0		2021-03-08	0	81	0	0	https://github.com/MCZbase/datashot_ee	2016-11-24	
+0	Java	2022-10-05	1	27192	0	0	https://github.com/FilteredPush/FP-KurationServices	2016-12-20	
+0	PHP	2017-06-12	0	26	0	0	https://github.com/DRSC-FG/gene2function	2017-06-09	
