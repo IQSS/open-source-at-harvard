@@ -2,6 +2,13 @@
 
 [![doi:10.7910/DVN/TJCLKP](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FTJCLKP-orange.svg)](https://doi.org/10.7910/DVN/TJCLKP)
 
+## Welcome!
+
+Since 2017 we've been collecting a list of open source projects at Harvard. To add your project, please edit [github.tsv](github.tsv). We're thinking about starting a [meetup][]! Please get in touch with us on [Zulip][]!
+
+[Zulip]: https://osdc.zulipchat.com/#narrow/stream/407032-harvard
+[meetup]: https://osdc.zulipchat.com/#narrow/stream/407032-harvard/topic/monthly.20meetup/near/393817494
+
 ## What is this open-source-at-harvard project about? How do I add my project to the list?
 
 How much open source software is written at Harvard? How popular is that software? When was it last updated? Which groups are writing the software? Which languages are used? These are the initial questions this **open-source-at-harvard** project attempts to answer, but there are many more questions we can tackle in the future. How many production services is [Harvard hosting][] that are based on this open source software? How many contributors does each project have? Who are the people who are contributing?
