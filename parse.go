@@ -12,6 +12,10 @@ import (
 	"time"
 )
 
+type License struct {
+	SpdxID string `json:"spdx_id"`
+}
+
 func main() {
 	tsvFile, _ := os.Create("data.tsv")
 	defer tsvFile.Close()
@@ -32,7 +36,7 @@ func main() {
 		repos = append(repos, repo)
 	}
 	sort.Sort(ByStars(repos))
-	header := []string{"stars", "language", "updated", "issues", "size", "forks", "watchers", "repo", "created", "description"}
+	header := []string{"stars", "language", "updated", "issues", "size", "forks", "watchers", "license", "repo", "created", "description"}
 	writer.Write(header)
 	for _, repo := range repos {
 		url := repo.Url
@@ -44,8 +48,12 @@ func main() {
 		watchers := strconv.Itoa(repo.Watchers)
 		pushedAt := repo.PushedAt.Format("2006-01-02")
 		createdAt := repo.CreatedAt.Format("2006-01-02")
+		license := ""
+		if repo.License != nil {
+			license = repo.License.SpdxID
+		}
 		desc := repo.Desc
-		values := []string{stars, lang, pushedAt, openIssues, size, forks, watchers, url, createdAt, desc}
+		values := []string{stars, lang, pushedAt, openIssues, size, forks, watchers, license, url, createdAt, desc}
 		writer.Write(values)
 	}
 }
@@ -60,6 +68,7 @@ type Repo struct {
 	Watchers   int       `json:"watchers_count"`
 	PushedAt   time.Time `json:"pushed_at"`
 	CreatedAt  time.Time `json:"created_at"`
+	License    *License  `json:"license"`
 	Desc       string    `json:"description"`
 }
 
