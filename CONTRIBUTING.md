@@ -25,6 +25,13 @@ Finally, issue the following commands to download JSON files about each project 
 
 A file called `data.tsv` should result, representing the data you just downloaded. Again, it should look something like the tsv file described above or the one at http://dx.doi.org/10.7910/DVN/TJCLKP .
 
+### Running with Docker
+
+If you don't want to install Go locally, you can use [Docker](https://www.docker.com) instead:
+
+    make download
+    make parse
+
 If you have any trouble with the commands above or have any ideas for this project, please open a GitHub issue. Pull request are also very welcome!
 
 ## Keeping github.tsv sorted
