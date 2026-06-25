@@ -1,0 +1,5 @@
+#!/bin/sh
+if git diff --cached --name-only | grep -q '^github\.tsv$'; then
+  scripts/check-sorted.sh --fix
+  git add github.tsv
+fi
