@@ -65,6 +65,11 @@ func main() {
 
 			defer response.Body.Close()
 
+			if response.StatusCode != 200 {
+				fmt.Println("unexpected status", response.StatusCode, "for", gitRepoUrl)
+				os.Exit(1)
+			}
+
 			file, err := os.Create(orgDashRepo + ".json")
 			if err != nil {
 			}
